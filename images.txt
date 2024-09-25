@@ -1,3 +1,12 @@
-sonatype/nexus3
-tomcat:9.0
-gitlab/gitlab-ee:latest
+registry
+box/quickreference
+johngong/baidunetdisk:latest
+lissy93/dashy:latest
+ljdyw/ubuntu-novnc:latest
+snowdreamtech/frps
+dpage/pgadmin4
+gitlab/gitlab-ce:latest
+zookeeper
+jenkins/jenkins:lts
+sonarqube:8.9-community
+jupyter/base-notebook

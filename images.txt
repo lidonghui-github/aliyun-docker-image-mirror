@@ -1,5 +1,3 @@
-wcjiang/linux-command:latest
-pull registry.cn-guangzhou.aliyuncs.com/os_cmty/os_cmty:Photopea
 registry.cn-guangzhou.aliyuncs.com/welldene/docker:cat
 fastposter/fastposter
 codercom/code-server:latest

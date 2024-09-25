@@ -1,5 +1,3 @@
-registry
-box/quickreference
 johngong/baidunetdisk:latest
 lissy93/dashy:latest
 ljdyw/ubuntu-novnc:latest

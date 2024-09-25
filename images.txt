@@ -1,15 +1,3 @@
-wcjiang/reference:latest
-photoprism/photoprism:latest
-zmister/mrdoc:v8
-lissy93/dashy
-cloudreve/cloudreve:latest
-ddsderek/aria2-pro
-zhaojun1998/zfile
-filegator/filegator
-ghcr.io/plankanban/planka:latest
-apache/dolphinscheduler-standalone-server
-mattermost/focalboard
-quay.io/wagoodman/dive:latest
 lscr.io/linuxserver/qbittorrent:latest
 danielszabo99/microbin:latest
 lscr.io/linuxserver/webtop:ubuntu-xfce

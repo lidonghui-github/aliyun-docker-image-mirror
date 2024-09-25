@@ -1,5 +1,12 @@
-ghcr.io/linuxserver/bookstack:latest
-lw96/doclever
-mongo:latest
-star7th/showdoc
-ddsderek/mdserver-web:latest
+mariadb:10.1
+phanan/koel
+mariadb:jammy
+chevereto/chevereto:latest
+mauricenino/dashdot
+netdata/netdata
+ionio/caddyfs
+mmmz/trwebocr
+deluan/navidrome
+xhofe/alist:latest
+mariadb:10
+lycheeorg/lychee

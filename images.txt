@@ -1,13 +1,3 @@
-lanol/filecodebox:beta
-illasoft/illa-builder:latest
-screego/server:1.10.3
-radrootllc/karaoke-eternal
-itzg/minecraft-server
-aaamoon/copilot-gpt4-service:latest
-yidadaa/chatgpt-next-web
-sameersbn/bind:latest
-hywax/mafl:latest
-ghcr.io/movie-web/backend:latest
 ghcr.io/manyfold3d/manyfold:latest
 redis:7
 vallezw/sheetable:latest

@@ -1,4 +1,3 @@
-registry.cn-guangzhou.aliyuncs.com/jmalcloud/jmalcloud:2.2.35 
 wcjiang/linux-command:latest
 pull registry.cn-guangzhou.aliyuncs.com/os_cmty/os_cmty:Photopea
 registry.cn-guangzhou.aliyuncs.com/welldene/docker:cat

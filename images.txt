@@ -1,7 +1,3 @@
-docker.dragonflydb.io/dragonflydb/dragonfly
-oceanbase/oceanbase-ce
-vdsm/virtual-dsm
-sickcodes/docker-osx:latest
 wcjiang/reference:latest
 photoprism/photoprism:latest
 zmister/mrdoc:v8

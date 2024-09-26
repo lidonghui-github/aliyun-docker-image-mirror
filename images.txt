@@ -1,10 +1,5 @@
-johngong/baidunetdisk:latest
-lissy93/dashy:latest
-ljdyw/ubuntu-novnc:latest
-snowdreamtech/frps
-dpage/pgadmin4
-gitlab/gitlab-ce:latest
-zookeeper
-jenkins/jenkins:lts
-sonarqube:8.9-community
-jupyter/base-notebook
+yunyoujun/cook:latest
+docker/getting-started
+yooooomi/easy-countdown
+linzeyi/hivision_idphotos
+stonith404/pingvin-share

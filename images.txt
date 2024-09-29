@@ -1,5 +1,1 @@
-kingwrcy/moments:latest
-swr.cn-north-4.myhuaweicloud.com/jeven/pptist:v1.0
-registry.cn-hangzhou.aliyuncs.com/jeson/s-pdf:0.26.1-fat
-bitnami/rabbitmq
-fauria/vsftpd
+rabbitmq:3.8-management

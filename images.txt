@@ -1,5 +1,2 @@
-yunyoujun/cook:latest
-docker/getting-started
-yooooomi/easy-countdown
-linzeyi/hivision_idphotos
-stonith404/pingvin-share
+mariadb:10.5
+rizo928/mywebsql-flex

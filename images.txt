@@ -1,1 +1,2 @@
-rabbitmq:3.8-management
+ghcr.io/docat-org/docat:latest
+docker.io/library/node:18-alpine

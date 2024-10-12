@@ -1,5 +1,3 @@
-changedetection.io dgtlmoon/changedetection.io
-ghcr.io/gchq/cyberchef:latest
-registry.cn-shanghai.aliyuncs.com/nocobase/nocobase:latest
-ghcr.io/wg-easy/wg-easy
-dockurr/windows
+registry.cn-beijing.aliyuncs.com/chatchat/chatchat:0.2.7
+yidadaa/chatgpt-next-web
+healthchecks/healthchecks:latest

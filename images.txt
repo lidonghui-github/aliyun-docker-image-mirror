@@ -1,2 +1,14 @@
-ghcr.io/docat-org/docat:latest
-docker.io/library/node:18-alpine
+humpbacks/humpback-web:latest
+humpbacks/humpback-agent:latest
+registry.supertokens.io/supertokens/supertokens-mysql:9.2.2
+registry.supertokens.io/supertokens/supertokens-postgresql:9.2.2
+registry.supertokens.io/supertokens/supertokens-mongodb:9.2.2
+ghcr.io/gitroomhq/postiz-app:latest
+postgres:14.5
+redis:7.2
+glitchtip/glitchtip
+matomo
+xuxueli/xxl-job-admin:2.4.0
+phpmyadmin
+uozi/nginx-ui:latest
+registry.cn-hangzhou.aliyuncs.com/tuon-pub/nginx-with-ui:latest

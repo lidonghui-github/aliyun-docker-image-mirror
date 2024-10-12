@@ -1,3 +1,5 @@
-registry.cn-beijing.aliyuncs.com/chatchat/chatchat:0.2.7
-yidadaa/chatgpt-next-web
-healthchecks/healthchecks:latest
+ghcr.io/ajnart/homarr:latest
+memcached:1.6.31
+seafileltd/seafile-mc:11.0-latest
+cloudnas/clouddrive2:latest
+xiaoyaliu/alist:latest

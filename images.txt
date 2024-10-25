@@ -1,5 +1,1 @@
-ghcr.io/ajnart/homarr:latest
-memcached:1.6.31
-seafileltd/seafile-mc:11.0-latest
-cloudnas/clouddrive2:latest
-xiaoyaliu/alist:latest
+prom/mysqld-exporter:latest

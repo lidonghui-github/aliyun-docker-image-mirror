@@ -1,4 +1,4 @@
 need4swede/sidequests:latest
 wbsu2003/zjson
 cveinnt/letsmarkdown:latest
-chroxify/haptic-web:v0.1.4 
+lhstack/small-dns

@@ -1,2 +1,4 @@
-telegraf
-cupcakearmy/cryptgeon:latest
+openlistteam/openlist
+jiangrui1994/cloudsaver
+registry.cn-shanghai.aliyuncs.com/certimate/certimate:latest
+ghcr.io/ajnart/dcm

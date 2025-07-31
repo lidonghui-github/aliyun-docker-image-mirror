@@ -1,1 +1,1 @@
-prom/mysqld-exporter:latest
+prom/mysqld-exporter:最新

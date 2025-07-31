@@ -1,4 +1,5 @@
-openlistteam/openlist
-jiangrui1994/cloudsaver
-registry.cn-shanghai.aliyuncs.com/certimate/certimate:latest
-ghcr.io/ajnart/dcm
+crpi-xg6dfmt5h2etc7hg.cn-hangzhou.personal.cr.aliyuncs.com/cherry4nas/d2c:latest
+rajnandan1/kener
+higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/all-in-one:latest
+tooljet/try:latest
+dokku/dokku

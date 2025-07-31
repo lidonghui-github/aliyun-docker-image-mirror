@@ -1,4 +1,1 @@
-need4swede/sidequests:latest
-wbsu2003/zjson
-cveinnt/letsmarkdown:latest
-lhstack/small-dns
+selenium/standalone-chrome

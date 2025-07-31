@@ -1,1 +1,1 @@
-prom/mysqld-exporter:最新
+ghcr.io/dockpeek/dockpeek:latest

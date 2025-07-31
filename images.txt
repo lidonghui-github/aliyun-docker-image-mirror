@@ -1,1 +1,3 @@
-ghcr.io/dockpeek/dockpeek:latest
+teamide/teamide-server:latest
+blinkospace/blinko:0.5.4
+jocxfin/pwgen:latest
